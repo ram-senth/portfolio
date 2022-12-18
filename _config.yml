@@ -1,11 +1,14 @@
 title: Ram Senthamarai # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I'm passionate about using machines and data to solve real-world problems. I have an 
+  extensive Software engineering experience. Now I'm also building up knowledge and skillsets 
+  in the data science and machine learning realms. This project portfolio covers the 
+  projects I have worked on as part of the 
+  <a href="https://ischoolonline.berkeley.edu/data-science/" target="_new" Masters In Data Science </a> degree 
+  from University of California, Berkeley.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ramsenth/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
